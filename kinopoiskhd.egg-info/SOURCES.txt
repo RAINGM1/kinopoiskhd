@@ -1,0 +1,6 @@
+README.md
+setup.py
+kinopoiskhd.egg-info/PKG-INFO
+kinopoiskhd.egg-info/SOURCES.txt
+kinopoiskhd.egg-info/dependency_links.txt
+kinopoiskhd.egg-info/top_level.txt
