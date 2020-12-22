@@ -1,6 +1,6 @@
 # Kinopoiskhd
 
-[![PyPI version](https://img.shields.io/pypi/v/kinopoiskpy.svg)](https://pypi.python.org/pypi/kinopoiskhd)
+[![PyPI version](https://img.shields.io/pypi/v/kinopoiskрhd.svg)](https://pypi.python.org/pypi/kinopoiskhd)
 
 This package using unofficial API to kinopoisk.ru website.
 
