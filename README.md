@@ -6,7 +6,7 @@ This package using unofficial API to kinopoisk.ru website.
 
 To install the latest version using pip:
 
-    $ pip install kinopoiskhd
+    $ pip install kinopoiskru
 
 ## Example usage
 
