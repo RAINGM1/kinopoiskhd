@@ -1,14 +1,14 @@
-# Kinopoiskpy
+# Kinopoiskhd
 
 [![PyPI version](https://img.shields.io/pypi/v/kinopoiskpy.svg)](https://pypi.python.org/pypi/kinopoiskpy) [![Circle CI](https://circleci.com/gh/ramusus/kinopoiskpy/tree/master.svg?style=shield)](https://circleci.com/gh/ramusus/kinopoiskpy) [![Build Status](https://img.shields.io/travis/ramusus/kinopoiskpy.svg?branch=master)](https://travis-ci.org/ramusus/kinopoiskpy) [![Coverage Status](https://coveralls.io/repos/ramusus/kinopoiskpy/badge.svg?branch=master)](https://coveralls.io/r/ramusus/kinopoiskpy)
 
-This package is pythonic API to kinopoisk.ru website.
+This package using unofficial API to kinopoisk.ru website.
 
 ## Installation
 
 To install the latest version using pip:
 
-    $ pip install kinopoiskpy
+    $ pip install kinopoiskhd
 
 ## Example usage
 
